@@ -1,0 +1,23 @@
+@media(min-width:1199px) {
+    .patient-table {
+        margin-left: 0px;
+        width: 90%;
+    }
+
+}
+
+@media (min-width:1198px) and (max-width:1560px) {
+    .patient-table {
+        margin-left: 0px;
+        width: 90%;
+    }
+}
+
+
+
+.patient-table {
+    padding: 10px 18px;
+
+    width: 90%;
+    transition: all 0.3s;
+}
